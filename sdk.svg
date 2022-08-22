@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="10" y="10" width="100" height="150">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <table>
+<thead>
+  <tr>
+    <th colspan="2">Feature</th>
+    <th>Foo</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2"><strong>v1.0</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://github.com/cloudevents/spec/blob/v1.0/spec.md">CloudEvents Core</a></td>
+    <td> :heavy_check_mark: </td>
+  </tr>
+  <tr>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td colspan="2">Avro Event Format</td>
+    <td> :heavy_check_mark: </td>
+  </tr>
+  <tr>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">HTTP</td>
+    <td>Binary</td>
+    <td> :heavy_check_mark: </td>
+  </tr>
+  <tr>
+    <td>Structured</td>
+    <td> :heavy_check_mark: </td>
+  </tr>
+  <tr>
+    <td>Batch</td>
+    <td> :x: </td>
+  </tr>
+</tbody>
+</table>
+    </body>
+  </foreignObject>
+  <!-- ... -->
+</svg>

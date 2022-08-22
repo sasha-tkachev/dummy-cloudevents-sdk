@@ -54,7 +54,7 @@ table tr td:last-child {
 }
     ]]></style>
   </defs>
-  <foreignObject  width="1024" height="1024">
+  <foreignObject  width="1024" height="10240">
     <body xmlns="http://www.w3.org/1999/xhtml">
       <table>
 <thead>
